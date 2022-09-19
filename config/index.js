@@ -15,7 +15,7 @@ export const config = {
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
-  IS_SHOW_COLOR: false,
+  IS_SHOW_COLOR: true,
 
   // 功能开关,打开：true，关闭：false
   SWITCH: {
@@ -62,9 +62,9 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o6-Ld6ikdf_GSVTQPCfDOXUKoe1k",
+      id: "o6-Ld6liyXfxJGKMTK8KdrH0ZCk0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "O84FW_9RQw9ae9xVJk2yd5lK5nkWFoE5hCWVuFYgIEo",
+      useTemplateId: "rhP6dhr7bBoeyooL4UTPPTSkOT-6B1NcM0gq8nXjwVU",
       // 所在省份
       province: "浙江",
       // 所在城市
